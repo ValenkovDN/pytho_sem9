@@ -214,8 +214,8 @@
 # # tab.set_value(2, 0, 4000)
 # # tab.set_value(2, 2, 5000)
 
-# # for i in range(-1, tab.n_rows() + 1):
-# #     for j in range(-1, tab.n_cols() + 1):
-# #         print(tab.get_value(i, j), end=' ')
-# #     print()
-# # print()
+# for i in range(-1, tab.n_rows() + 1):
+#     for j in range(-1, tab.n_cols() + 1):
+#         print(tab.get_value(i, j), end=' ')
+#     print()
+# print()
